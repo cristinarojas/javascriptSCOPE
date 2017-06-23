@@ -9,4 +9,4 @@ function addMoreNames(myArray) { // Passing an Objetc(array) by reference
 addMoreNames(myArray);
 console.log(myArray); // ["Cristina", "Carlos", "Dani", "Manuel", "Ingrid"]
 
-// Everything else is an object in JavaScript (functions, arrays, Date() values, etc).
+// Everything else is an object in JavaScript (functions, arrays, Date() values, etc). 
