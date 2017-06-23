@@ -20,3 +20,5 @@ function inspiredFear(1) {
 
 inspiredFear();
 console.log(level); // 1
+
+// Primitives are "simple" data types (string, number, boolean, null, and undefined in JavaScript). 
