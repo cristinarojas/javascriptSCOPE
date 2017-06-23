@@ -18,3 +18,5 @@ function logIt() {
 	console.log(text);
 	text = 'inside';
 }
+
+// Result: undefined, undefined
